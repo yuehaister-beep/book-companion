@@ -1,0 +1,4 @@
+interface:
+  display_name: "人人都是一本书"
+  short_description: "通过渐进对话陪伴学习与写书，支持多书隔离、导入续写和作者确认定稿"
+  default_prompt: "请使用 $book-companion，接着我已有的想法或书稿，陪我逐步写好一本书。"
